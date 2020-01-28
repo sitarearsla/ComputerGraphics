@@ -1,4 +1,4 @@
-//assignment1 - sitare arslanturk 57677
+//assignment1 - sitare arslanturk 
 #define GL_SILENCE_DEPRECATION
 
 #include "Angel.h"
